@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">alectrion-app-kotlin</string>
+    <string name="default_notification_channel_id">alectrion</string>
+    <string name="beta_release">Beta release</string>
+</resources>
